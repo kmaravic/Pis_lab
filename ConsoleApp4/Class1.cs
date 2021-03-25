@@ -6,6 +6,7 @@ namespace ConsoleApp4
 {
     class Class1
     {
+
         public void zbroj() { 
             Console.WriteLine("TEST"); }
     }
